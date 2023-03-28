@@ -1,3 +1,4 @@
+
 public class Main {
 
 
@@ -11,8 +12,9 @@ public class Main {
     	//GridLayout = places componenets in a grid of cells.
     					//each component takes all the available space within its cell and each cell is the same size.
     	
-    	LaunchPage launchPage = new LaunchPage();
-        
+//    	LaunchPage launchPage = new LaunchPage();
+    	OptionPane optionPane = new OptionPane();
+    	  	
     };
     
 }
