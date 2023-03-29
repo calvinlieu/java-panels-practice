@@ -16,10 +16,12 @@ public class Main {
 //    	LaunchPage launchPage = new LaunchPage();
     	
 //    	JOptionPane = pop up a standard dialog box that prompts users for a value or informs them of something.
+     // JtextField = a GUI textbox component that can be used to add, set, or get text
+    	//JCheckbox = a GUI componenet that can be selected or deselected
     	
-    	// JtextField = a GUI textbox component that can be used to add, set, or get text
+    	new MyFrameCheckBox();
     	
-    	MyFrame frame = new MyFrame();
+
     	
     	
     };
