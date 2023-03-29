@@ -1,4 +1,5 @@
 
+
 public class Main {
 
 
@@ -13,8 +14,14 @@ public class Main {
     					//each component takes all the available space within its cell and each cell is the same size.
     	
 //    	LaunchPage launchPage = new LaunchPage();
-    	OptionPane optionPane = new OptionPane();
-    	  	
+    	
+//    	JOptionPane = pop up a standard dialog box that prompts users for a value or informs them of something.
+    	
+    	// JtextField = a GUI textbox component that can be used to add, set, or get text
+    	
+    	MyFrame frame = new MyFrame();
+    	
+    	
     };
     
 }
