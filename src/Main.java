@@ -19,8 +19,8 @@ public class Main {
      // JtextField = a GUI textbox component that can be used to add, set, or get text
     	//JCheckbox = a GUI componenet that can be selected or deselected
     	//JComboBox = a component that combines a button or editable field and a drop-down list
-    	
-    	new ComboBox();
+    	//JSlider = a GUI component that lets user enter a value by using an adjustable sliding knob on a track
+    	new SliderDemo();
     	
   
     	
