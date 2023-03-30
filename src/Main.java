@@ -18,8 +18,11 @@ public class Main {
 //    	JOptionPane = pop up a standard dialog box that prompts users for a value or informs them of something.
      // JtextField = a GUI textbox component that can be used to add, set, or get text
     	//JCheckbox = a GUI componenet that can be selected or deselected
+    	//JComboBox = a component that combines a button or editable field and a drop-down list
     	
-    	new MyFrameRadioButtons();
+    	new ComboBox();
+    	
+  
     	
 
     	
