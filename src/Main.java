@@ -19,7 +19,7 @@ public class Main {
      // JtextField = a GUI textbox component that can be used to add, set, or get text
     	//JCheckbox = a GUI componenet that can be selected or deselected
     	
-    	new MyFrameCheckBox();
+    	new MyFrameRadioButtons();
     	
 
     	
