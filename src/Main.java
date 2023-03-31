@@ -20,9 +20,9 @@ public class Main {
     	//JCheckbox = a GUI componenet that can be selected or deselected
     	//JComboBox = a component that combines a button or editable field and a drop-down list
     	//JSlider = a GUI component that lets user enter a value by using an adjustable sliding knob on a track
-    	new SliderDemo();
+    	//progress bar = Visual aid to let the user know that an operation is processing.
     	
-  
+    	new ProgressBar();
     	
 
     	
