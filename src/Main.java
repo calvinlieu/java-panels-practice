@@ -21,8 +21,9 @@ public class Main {
     	//JComboBox = a component that combines a button or editable field and a drop-down list
     	//JSlider = a GUI component that lets user enter a value by using an adjustable sliding knob on a track
     	//progress bar = Visual aid to let the user know that an operation is processing.
+    	//JFileChooser = a GUI mechanism that let's a user choose a file (helpful for opening or saving files)
     	
-    	new MenuBars();
+    	new FileChooser();
     	
 
     	
