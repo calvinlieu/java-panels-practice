@@ -22,7 +22,7 @@ public class Main {
     	//JSlider = a GUI component that lets user enter a value by using an adjustable sliding knob on a track
     	//progress bar = Visual aid to let the user know that an operation is processing.
     	
-    	new ProgressBar();
+    	new MenuBars();
     	
 
     	
