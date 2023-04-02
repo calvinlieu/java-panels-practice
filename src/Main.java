@@ -25,7 +25,7 @@ public class Main {
     	//JColorChooser = a GUI mechanism that lets a user choose a color.
     	//
     	
-    	new KeyListenerPractice();
+    	new MouseListen();
     	
     	
     	
