@@ -22,8 +22,11 @@ public class Main {
     	//JSlider = a GUI component that lets user enter a value by using an adjustable sliding knob on a track
     	//progress bar = Visual aid to let the user know that an operation is processing.
     	//JFileChooser = a GUI mechanism that let's a user choose a file (helpful for opening or saving files)
+    	//JColorChooser = a GUI mechanism that lets a user choose a color.
     	
-    	new FileChooser();
+    	new JColorChoose();
+    	
+    	
     	
 
     	
