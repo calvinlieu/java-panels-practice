@@ -23,11 +23,12 @@ public class Main {
     	//progress bar = Visual aid to let the user know that an operation is processing.
     	//JFileChooser = a GUI mechanism that let's a user choose a file (helpful for opening or saving files)
     	//JColorChooser = a GUI mechanism that lets a user choose a color.
-    	//
-    	
-    	new MouseListen();
     	
     	
+    	new LoginScreen();
+    	
+    	
+    
     	
     	
 
